@@ -7,6 +7,7 @@
 - [AbelolDev](https://github.com/AbelolDev) **This is my first contribution and is awesome**
 - [Jaeah Lee - Ruthgyeul](https://github.com/ruthgyeul) **Don't Stop, Keep Coding!**
 - [Trazer09](https://github.com/Trazer09)
+- [José Méndez](https://github.com/JoseRmn3) *** Good Luck everyone!!! ***
 - [Shreyas Shetty](https://github.com/shreyasshetty07) --Learning Fundamentals Right--
 - [Joy Li](https://github.com/Joy4620) ***First open source contribution***
 - [FrancescoLegg](https://github.com/FrancescoLegg) ***First open source contribution***
